@@ -7,21 +7,22 @@ hero:
   text: "重韻開發指南"
   tagline: 快速開始你的項目
   image:
-    src: ./logo.png
+    src: public/logo.png
     
     alt: VitePress
   actions:
     - theme: brand
-      text: 技術文檔
+      text: 項目管理
       link: /development/overview
-  #   - theme: alt
-  #     text: 模塊功能
-  #     link: /module/overview
+    - theme: alt
+      text: 技術管理
+      link: /technology/overview
+
 
 features:
-  - title: 簡單工具
-    details: 利用 python 和 javascript 所構建的跨平台工具，
-  - title: 共享資料
-    details: 利用帳號管理多人共用記帳簿。
+  - title: 項目管理
+    details: 指南第一部分，講述一個項目的生命周期
+  - title: 技術管理
+    details: 指南第二部分，透過PiggyFlow介紹項目中會使用的技術
 ---
 

@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   srcDir: './src',
-  base: '/developmentguide/',
+  base: '/DevelopmentGuide/',
   title: "Development Guide",
   description: "Development guide book for developers",
   themeConfig: {

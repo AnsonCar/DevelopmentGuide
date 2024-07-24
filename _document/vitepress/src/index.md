@@ -7,7 +7,7 @@ hero:
   text: "重韻開發指南"
   tagline: 快速開始你的項目
   image:
-    src: /logo.png
+    src: ./logo.png
     
     alt: VitePress
   actions:

@@ -11,6 +11,7 @@ export default defineConfig({
     nav: [
       { text: '項目管理', link: '/development/overview'},
       { text: '技術管理', link: '/technology/overview'},
+      { text: 'Demo', link: '/demo/overview'},
       { text: '路線圖', link: '/roadmap'},
     ],
 

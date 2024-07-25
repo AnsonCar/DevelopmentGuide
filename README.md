@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="192px" src="./docs/Logo/CY_Logo_Q2.png" >
+    <img width="192px" src="./logo.png" >
 </p>
 <h1 align="center"><b>開發指南</b></h1>
 
